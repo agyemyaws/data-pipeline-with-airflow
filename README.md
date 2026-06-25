@@ -259,9 +259,3 @@ The pipeline can be validated by checking:
 - Stored processed datasets in AWS S3
 - Created reusable pipeline logic for multiple stock symbols
 - Demonstrated practical cloud-based data engineering workflow automation
-
----
-
-- [LinkedIn](https://linkedin.com/in/nana-yaw-agyeman)
-- [Portfolio](https://www.nanayawagyeman.com/)
-- [GitHub](https://github.com/agyemyaws)
